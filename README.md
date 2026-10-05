@@ -2,7 +2,7 @@
 
 A tiny calculator library used to practise opening a first pull request.
 
-## Instalation
+## Installation
 
 No dependencies are required. Just clone the repository:
 
@@ -19,7 +19,7 @@ add(2, 3)      # 5
 divide(10, 4)  # 2.5
 ```
 
-Dividing by zero will raise a `ValueError` so you recieve a clear error message.
+Dividing by zero will raise a `ValueError` so you receive a clear error message.
 
 ## Running tests
 
